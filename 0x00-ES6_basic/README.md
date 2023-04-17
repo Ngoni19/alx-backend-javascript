@@ -2,9 +2,13 @@
 
 ## Resources
 
-> [ECMAScript 6 - ECMAScript 2015]*(https://www.w3schools.com/js/js_es6.asp)*
->
-
+> *[ECMAScript 6 - ECMAScript 2015](https://www.w3schools.com/js/js_es6.asp)*
+> *[Statements and declarations](https://intranet.alxswe.com/rltoken/sroRUsUvOZV28V99MHDenw)*
+> *[Arrow functions](https://intranet.alxswe.com/rltoken/N2WLylppCtkkX3YFFtyUHw)*
+> *[Default parameters](https://intranet.alxswe.com/rltoken/kbw9gMO6sdeOKAY23SYVgA)*
+> *[Rest parameter](https://intranet.alxswe.com/rltoken/erZfCvacuGVk9z1CQlJvYQ)*
+> *[Javascript ES6 — Iterables and Iterators](https://intranet.alxswe.com/rltoken/JBRaxZsT3mwIGkG6MxeTTg)*
+---
 > **Project's objectives** are as follows:
 
 ## Objectives
