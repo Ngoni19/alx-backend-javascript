@@ -1,11 +1,10 @@
-/* use const for hoisting */
 export default function taskBlock(trueOrFalse) {
-  const task = false;
-  const task2 = true;
+  let task = false;
+  let task2 = true;
 
   if (trueOrFalse) {
-    const task = true; // no-unused-vars
-    const task2 = false; // no-unused-vars
+    task = true;
+    task2 = false;
   }
 
   return [task, task2];
