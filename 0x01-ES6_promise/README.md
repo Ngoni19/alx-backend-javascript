@@ -96,4 +96,4 @@ foo@pop-os:~$ npm install --save-dev eslint
 
 ## Author
 
-- Ngoni19 <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white"/>](https://github.com/Ngoni19)
+- Ngoni19 [<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white"/>](https://github.com/Ngoni19)
