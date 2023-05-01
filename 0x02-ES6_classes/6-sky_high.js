@@ -1,4 +1,4 @@
-import { Building } from './5-building';
+import  Building  from './5-building';
 
 export class SkyHighBuilding extends Building {
   constructor(sqft, floors) {
@@ -13,4 +13,8 @@ export class SkyHighBuilding extends Building {
   evacuationWarningMessage() {
     return `Evacuate slowly the ${this._floors} floors.`;
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ab7475fdfb8145184dfbf94a1f583fbbba754a39
