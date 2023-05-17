@@ -1,4 +1,4 @@
-export default function filterStudentsByLocation(arr, city) {
+export default function getStudentsByLocation(arr, city) {
   const studentsInCity = [];
 
   for (const student of arr) {
